@@ -1,3 +1,6 @@
+#Basic port scanner to check for open port like ftp, ssh, telnet, http, etc.
+
+
 import socket
 from IPy import IP
 
