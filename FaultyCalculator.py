@@ -7,6 +7,7 @@ Minus = "-"
 Multiply = "*"
 Divide = "/"
 
+#You can change the 'First' and 'Second' value in IF/Else statements to assign some specific values which will return a wrong result.
 if First == 45 and Operator == Multiply and Second == 3:
     print("555")
 elif  First == 56 and Operator == Plus and Second == 9:
