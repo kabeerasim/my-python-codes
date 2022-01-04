@@ -1,9 +1,3 @@
-# Oh Soldier Prettify my Folder
-# make a function which takes a path of a folder as string input and then will 
-# path = C:/Users/Kabeer Mirza/Desktop/Exercise
-# file = Capitalize all files with lowercase first letter
-# png/jpg = rename all files as 1.png, 2.png, 3.png
-
 import os
 # filename = input("Enter the file name you want to leave as default")
 # newfilename = filename.capitalize()
