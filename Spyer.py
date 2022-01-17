@@ -25,8 +25,8 @@ os.chdir("D:/Python/Python Projects/SpyWithPython/")
 
 SERVER = 'smtp.gmail.com'
 PORT = 587
-FROM = 'Myspam055@gmail.com'
-TO = 'kabeerasim055@gmail.com'
+FROM = 'Enter your gmail here'
+TO = 'Enter your gmail here'
 PASS = '***********'
 
 now = datetime.now()
